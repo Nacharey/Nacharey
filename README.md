@@ -5,7 +5,7 @@
 - 📫 How to reach me rey.natalia@hotmail.com
 - 😄 Pronouns: she/he
 - ⚡ Fun fact: I am an advanced industrial design student.
-I love watching series and movies, I'm currently watching madmen
+- If you recognize what game my avatar is from, let's be friends!
 
 <!---
 Nacharey/Nacharey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
