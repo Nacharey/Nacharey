@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Nacharey
+- 👀 I’m interested in design webside and app design.
+- 🌱 I’m currently learning desing UI, Figma.
+- 💞️ I’m looking to collaborate on development of web pages and mobile applications.
+- 📫 How to reach me rey.natalia@hotmail.com
+- 😄 Pronouns: she/he
+- ⚡ Fun fact: I am an advanced industrial design student.
+I love watching series and movies, I'm currently watching madmen
+
+<!---
+Nacharey/Nacharey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
