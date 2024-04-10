@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI desing and Figma.
 - 💞️ I’m looking to collaborate on development of web pages and mobile applications.
 - 📫 How to reach me rey.natalia@hotmail.com
-- 😄 Pronouns: she/he
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an advanced industrial design student.
 - If you recognize what game my avatar is from, let's be friends!
 
