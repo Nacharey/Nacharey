@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nacharey
 - 👀 I’m interested in design webside and app design.
-- 🌱 I’m currently learning desing UI, Figma.
+- 🌱 I’m currently learning UI desing and Figma.
 - 💞️ I’m looking to collaborate on development of web pages and mobile applications.
 - 📫 How to reach me rey.natalia@hotmail.com
 - 😄 Pronouns: she/he
